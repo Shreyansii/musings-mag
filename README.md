@@ -1,0 +1,1 @@
+Welcome to my Magazine Website, a personal project created with HTML, CSS, and JavaScript. This website serves as a digital space to share my creative writings—articles and poems—along with additional features like a planner and newsletter subscription.
